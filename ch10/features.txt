@@ -1,0 +1,100 @@
+['around', 'others', 'alaska', 'times', 'shell', 'three']
+(0.99872803902899299, u"Watch CNN's 'Secrets in the Ice'")
+(0.99424446744954165, u"Two killed in New Year's shooting")
+(0.98874546481959957, u'A new year, a new era for marriage in Maryland - Baltimore Sun')
+
+['news', 'week', 'york', 'cliff', 'wall', 'back']
+(0.99614513219945355, u'Fuel-cell cars on the right road')
+(0.98895655701930596, u'Best place to buy property in Asia')
+(0.98227796159229264, u"Father claims Newtown shooter's body")
+
+['with', 'they', 'north', 'their', 'after', 'better']
+(0.99582057304349958, u'Foods to Put You in a Bad Mood')
+(0.99322511892999077, u'UAE arrests suspected terror cell')
+(0.98838062175653862, u"What's ahead in 2013?")
+
+['year', 'rape', 'death', 'climate', 'india', 'military']
+(0.99904644308722768, u'Group: Electric car crashes pose new risk for responders')
+(0.99872559108101844, u'Arab youth demand urgent action')
+(0.99818820477793302, u'Blaming immigrants for Greek woes')
+
+['fiscal', 'deal', 'cliff', 'talks', 'senate', 'united']
+(0.9999581560694325, u'Jet overshoots Moscow runway')
+(0.9940568280507891, u'Armed inmates try prison break')
+(0.98920533969039615, u'A new year, a new era for marriage in Maryland - Baltimore Sun')
+
+['first', 'world', 'killed', 'time', 'iraq', 'benghazi']
+(0.99849439565282161, u"North Korea's Kim Jong-un makes a rare New Year's speech - Telegraph.co.uk")
+(0.99188594343594672, u'A new year, a new era for marriage in Maryland - Baltimore Sun')
+(0.98779534584298434, u'Acquire Newtown gunmaker')
+
+['some', 'been', 'looks', 'your', 'best', 'greek']
+(0.99959207942133332, u'Rising sea level puts islands at risk')
+(0.99639686552251505, u"China runs 'sexy' N.Korea spoof")
+(0.99345527735809669, u'Singapore sprouts green roofs')
+
+['news', 'nbsp', 'clinton', 'after', 'clot', 'hillary']
+(0.99727967691014696, u"Don't be offended, DREAMers")
+(0.99370223752004239, u'Djokovic hurt as crowd barrier collapses')
+(0.97629681615517994, u'Clinton suffering blood clot in her head')
+
+['were', 'chinese', 'will', 'from', 'stories', 'when']
+(0.99670355033158431, u'Dozens of children crushed to death at fireworks party')
+(0.99665694925815262, u"Don't be offended, DREAMers")
+(0.99498676359840321, u"Father claims Newtown shooter's body")
+
+['with', 'what', 'been', 'father', 'alaska', 'drilling']
+(0.99606856163245239, u"13 for 2013: What's next for the world?")
+(0.99266557950376977, u'Triple amputee takes on most dangerous race')
+(0.99162300668810277, u'Crews battle weather trying to tow drilling vessel to Alaska harbor')
+
+['that', 'world', 'chavez', 'celebration', 'hero', 'west']
+(0.99898235679472636, u"Two killed in New Year's shooting")
+(0.98795497651423181, u'NASA crashes probes into moon')
+(0.98223240821101032, u'Basnet named CNN Hero of the Year')
+
+['years', 'there', 'wilmington', 'south', 'governor', 'after']
+(0.99928613852415116, u'Wozniacki wilts in Brisbane opener')
+(0.98679516166107772, u'The novel America needs in 2013')
+(0.97576815841279474, u"Doctors say blood clot located in Clinton's head")
+
+['year', 'monday', 'their', 'guard', 'minister', 'keep']
+(0.99854452506988667, u'Rising sea level puts islands at risk')
+(0.9971303437453416, u'Would a Berlusconi return hurt Italy?')
+(0.99552479997588805, u'NASA crashes probes into moon')
+
+['people', 'them', 'says', 'plane', 'moscow', 'police']
+(0.99539770022568252, u"College 'banishes' words for 2013")
+(0.99091599431531119, u'Rising sea level puts islands at risk')
+(0.99013587002641512, u"After slump, Dubai says: We're back!")
+
+['from', 'china', 'state', 'death', 'that', 'body']
+(0.99562632434045051, u'Arab youth demand urgent action')
+(0.99261336561102587, u'About 60 crushed to death in Ivory Coast stadium stampede - Reuters')
+(0.99183384007616637, u"Governor pardons 'Wilmington 10'")
+
+['after', 'with', 'have', 'make', 'reports', 'economic']
+(0.99243030311577529, u'Secret WWII code found on dead bird')
+(0.98570014461335198, u'NASA crashes probes into moon')
+(0.9837581120073261, u'Zookeepers fight gators for eggs')
+
+['over', 'pakistan', 'take', 'this', 'workers', 'said']
+(0.99412389113681421, u'2012 newshound? Take the quiz')
+(0.9929629976463078, u'Chavez battling respiratory infection')
+(0.99156450834571797, u'Best of 2012 in pictures')
+
+['2013', 'photos', 'fireworks', 'women', 'help', 'health']
+(0.99485620966742927, u'Foods to Put You in a Bad Mood')
+(0.99219887309867705, u'Stench of burnt bodies smothers Syrian city, residents say')
+(0.98755909113668749, u'India files murder charges in gang rape')
+
+['2013', 'into', 'according', 'that', 'ring', 'battery']
+(0.99880864517302537, u'Hef Gets Hitched')
+(0.99500223204137239, u'Neighbors ring in 2013 24 hours apart')
+(0.98772597433048104, u'Plane crashes at Moscow airport')
+
+['years', 'that', '2012', 'near', 'rare', 'have']
+(0.99941919821623915, u'Hangovers: Myths and facts')
+(0.99323102069955704, u'Opinion: Speak up on climate change')
+(0.9902415686852124, u'2012 quiz')
+

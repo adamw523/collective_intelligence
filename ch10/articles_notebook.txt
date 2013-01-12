@@ -1,0 +1,1425 @@
+Venezuela's President Fighting Severe Lung Infection - Voice of America
+45.1963493808 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+2.88216566107 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+2.69159179872 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Pakistani schoolgirl Malala Yousufzai leaves hospital - USA TODAY
+50.3489717103 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+1.35246432784 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+1.18425928671 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Moran: The lone wolf congressman who won't sign on to Sandy aid - The Star-Ledger - NJ.com (blog)
+44.0661627144 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.0935382729 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.413252700709 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Can India's anti-rape moment change a culture? - CBC.ca
+38.3834413764 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+16.0739101184 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+0.489523965371 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Back to School: Do We Still Remember Sandy Hook? - New Yorker (blog)
+47.9122509756 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+10.8995298851 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+2.36990623179 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Google Pushed Hard Behind the Scenes to Convince Regulators - New York Times
+49.6728897565 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.783044127309 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.699880407137 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Gaza: Hamas allows rival Fatah to hold celebration rally - BBC News
+45.201896489 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+0.330837539204 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.294663126519 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Japan, South Korea Move to Ease Tensions - Voice of America
+49.2786155132 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+2.31492245007 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.758986601017 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Gunman kills seven in Philippines - The News International
+42.0911122268 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+2.63186129018 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.95641512523 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Transocean's $1.4B oil spill deal will help Gulf - Seattle Post Intelligencer
+38.1884552767 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.495019606911 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.443292495436 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+
+Radical American Cleric May Have Booked Pre-9/11 Flights for Hijackers
+5.41001903029 ['their', 'have', 'that', 'cash', 'they', 'bank']
+4.04186262687 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.70048097271 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+A 'MAP' FOR CRIMINALS? Official Says Releasing Gun Records Endangers Public
+4.45086920318 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.450602082064 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.00774009926681 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+'NOT AUTHORIZED':  Judge: EPA Overstepped Authority in Virginia
+7.68499534705 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+4.03843655823 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.129256870702 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+DARING RESCUE:  Teens Stranded in Tree for Hours in Icy Lake Saved
+0.107715832038 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.0516137757692 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.011918189045 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+CHILD CUSTODY DRAMA: To Make Sperm Donor Pay, Agency Says Mom Lied
+1.704440423 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.684083206021 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.629820417035 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+
+Giffords reportedly to meet with Sandy Hook victims- Worker reportedly let husband see gunman's body
+4.78802094603 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+2.09428398345 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.88628796992 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+ICE arrests hundreds in child pornography probe
+0.0427027197345 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.0320465382512 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.0290415006813 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Authorities link inmate to 1976 Colorado murder
+0.440657148088 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+0.322777796532 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.215521205509 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Beloved shop owner is Chicago's fifth homicide of 2013
+1.49588779677 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.823212925868 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.136385668411 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Delaware taxpayers on the hook as Fisker plant idles
+2.16769004025 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+7.82613859325e-11 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+1.21129722455e-89 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Boy found in filthy home after mom said he was missing
+3.38271302744 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.48879558995 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.491959423186 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Search reportedly over for convict who escaped in 1969
+1.27527244863 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.484011775289 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.000580729108973 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+Cowboys player killed in crash was sober
+2.57987872756 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.168428020295 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+6.82525779233e-16 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Venezuela's Chavez fighting severe lung infection
+6.44443853379 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+1.1038245883e-40 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.66926102844e-50 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+School reverses decision to cancel Elvis play over song
+2.03891415124 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.944603650044 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+1.14328328406e-05 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+NY teen allegedly claims to have bomb to rob bank
+2.73810166917 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.472170302214 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.419383146355 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+UN back to its free-spending ways, despite claims
+1.1126566318 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+1.90110831565e-13 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.88212364527e-49 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Teens drugged parents to go on Internet after curfew
+1.80023415059 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.998017124525 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.179070709004 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+School board member caught ramming car into teen
+2.15786685427 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.262394231665 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.167041982577 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Gore sells Current TV to Al Jazeera, earns $100M- OPINION: Gore a rich hypocrite with sale
+2.17972873512 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.20141265982 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.421820710522 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+
+Hough's Horrific Abuse Story
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Say 'N-Word'! I Dare You!
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Catch a Python, Win Big
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+USA's Favorite Muscle Car?
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Seymour Stuns on Barth's Beach
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Diet: Eat Only Cabbage Soup?
+0.668005730276 ['their', 'have', 'that', 'cash', 'they', 'bank']
+2.00034092423e-18 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+5.85220037553e-23 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Stripper Lap Dance Tragedy
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Did Mars Once Look Like This?
+1.33953485659 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.565491427824 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.377003679162 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Soon: Colored iPhones?
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Wendy's Ups Value Meal
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+How to Save the Black Hawk
+0.140450458758 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.130848492549 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.00107263177071 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Bull Testicle Beer Coming
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Why Is Hawaii So Liberal?
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Myanmar: Evolution, not revolution
+3.00113109083 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+2.35622194461 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.572900935246 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Why U.S. lives under the shadow of 'W'
+0.97490463754 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.206597615078 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0346518685481 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+How Donald Trump hijacks U.S. media
+3.81694401003 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.63552613903 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.478951995885 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+U.S. troops to man Patriot missiles near Syrian border
+5.12173885047 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.16337530912 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.03838402441 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Syria refugees struggle through winter
+6.32411787233 ['syria', 'what', '2013', 'next', 'will', 'more']
+4.63197292761 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+2.71262770905 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+What comes next for Syria in 2013?
+11.4306952601 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.241699178791 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+1.20151179797e-05 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Hugo Chavez battling respiratory failure
+12.479334002 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.382995674725 ['syria', 'what', '2013', 'next', 'will', 'more']
+6.95101599413e-08 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Uncertainty in Venezuela over Chavez
+4.23136745215 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.673447258587 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.326486087945 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Shot Pakistani Malala leaves UK hospital
+10.9694698145 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+7.76913140537 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.418202632407 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Leaders of two Sudans in talks
+1.58653047981 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.43199196687 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.28345942165 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Gunman kills six in Philippine town
+11.9273414742 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+5.64159146988 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.00011646511926 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Ban on 'straddling bikes' draws outcry
+9.49445935972 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.00879705907167 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+0.000485040228698 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+S. Africa mountain biker Stander killed
+3.21816249869 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.578307793 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.18352836739 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+
+Low bar for new U.S. Congress
+2.44593403053 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+1.54439167044 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+1.48668348849 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Putin offers passport to actor Depardieu
+0.783190105471 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.649004558766 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+0.454777129086 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Britain extradites terror suspect to U.S.
+10.0581244348 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.20405852014 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.12815717721 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Gunmen kill 4 at Nigeria police station
+15.2880994888 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.718389294758 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.407130121378 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+
+Paris promises economic reforms
+1.78985805369 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.31325167452 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.06592164431 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Guilty plea to U.S. hate crimes charge
+19.2586062462 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.00679656339681 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.000427782693687 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Two teens accused in Ohio rape case
+3.99270426621 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+3.44289984626 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+0.45555234577 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Evidence gathered on social media
+3.77738833039 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.74468972347 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.11496773697 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Senior Taliban boss killed in strike
+22.7560102601 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.523267427591 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+4.50337953136e-11 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Argentina to UK: Give back Falklands
+2.23040078428 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.88725869326 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.731279611201 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+'Abe trade': Will Japan's bull-run last?
+4.4727638759 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+1.51876551831 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+1.1879798194 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Car bomb claims 15 in Iraq
+2.56650958322 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.942292359891 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.649654743534 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+AC Milan player takes stand over racism
+3.82903656715 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+3.51041158206 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.79133529277 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Rape suspects charged with murder
+16.696752033 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+4.18526832311 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.41019966005 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Remembering the gang-rape victim
+10.2026722099 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.71439992095 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.25830225357 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Auspicious occasion
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Brazilian student auctions virginity
+0.228523980003 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+0.223833654893 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0184249909845 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+
+WWII love letters found
+5.03886604643 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.62511313809 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.845101977884 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+See how speedboat puts out fire
+1.37254232262 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+1.34352980016 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.948895096873 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Baby in womb reaches for hand
+0.139495861081 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.0761807596117 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0371023226176 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+An under water proposal
+0.119294883819 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.0574698562746 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+4.79688702702e-06 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Tot with pacifier can snowboard
+2.12412063268 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.882489831072 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.654144473436 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+
+Twins give birth hours apart
+4.10053223461 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.08560545263e-17 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.76141917699e-19 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Crisis over Vatican cash machines
+14.3573546603 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.706816218267 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.398123792009 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+'We are all guilty'
+6.57564809392 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+2.25782306559 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.812879103194 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Shark finning thrives on HK rooftops
+0.0259242253707 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.00104559830885 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+1.1236916e-16 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Kit Kat: Giving fans a break for 77 years
+0.488741363902 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.0735341813383 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+3.71241618784e-17 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Rape storm: Is death the solution?
+8.10497597031 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.38328214312 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+1.32960678289 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+What should be U.S. role in Syria?
+6.52373939397 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.487249926465 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.62184913205e-05 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Officials: Drone killed Taliban commander
+15.8334601223 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.61872252964 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+0.306555664951 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+What's behind Falkland Islands feud
+1.94550147526 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.10777778183 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+1.04779459812 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Young victims of Syria's civil war
+4.56026163247 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.87269282707 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.88377689153 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Gun buyback yields rocket launchers
+2.13694243491 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.065608137 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.506250652873 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Moscow plane crash caught on video
+4.10316293417 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.621941303433 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.275127448002 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Singapore cemetery as battleground
+1.40866476143 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.234799035815 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.168060691878 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Battery charged by walking
+4.67090919277 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+2.35203255223 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.94419652543 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Clinton's legacy as U.S. top diplomat
+1.88797824134 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.970710919388 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0111622332563 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Bullying bosses seize power
+1.16087480587 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.616572824094 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.155552227313 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+China's new traffic rules stir debate
+21.0882530549 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+1.30067334679e-09 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.42444824641e-11 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Social stigma of rape around world
+7.09968220157 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+0.891147563557 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.773120218592 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Unborn baby holds doctor's hand
+0.139495861081 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.0761807596117 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0371023226176 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+Why Boko Haram is threat to Nigeria
+2.14561453095 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.576552048839 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.568106080461 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Apes battle to stay alive in DRC
+6.1710883422 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.057314947 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+2.63030844118e-11 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+In war-torn Syria, what comes next?
+8.96607135008 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.259138728249 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.0788313482762 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Getting around with a Zipcar
+3.23744784426 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+2.41517802739 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.706860272546 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Airports find more than 1,500 guns
+4.25259486976 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.23321594973 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.844139353339 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Longer lives for fat people?
+1.26131167214 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.10005381676 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.730335243514 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Help wanted: Aspergers only
+2.19174700484 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.55662173424 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.25514862112 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+Inside the Fuller's Beer brewery
+1.32895385212 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.120097931415 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0648259452193 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Will Portugal ban austerity laws?
+1.77420213917 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.867701696205 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.732671597327 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+Teen offers virginity for money
+2.09291525799 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+1.34821473456 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.490380607361 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Biggest, buzziest movies of 2013
+4.88151452814 ['year', 'growth', 'with', 'record', 'month', 'industry']
+4.44934634293 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.42641192387 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Macau casinos end year on a high
+18.1977210323 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.511213606484 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.00702826001761 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+
+Economic potential in Myanmar
+1.29385111851 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.288538404637 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.206995684269 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+How a speedboat puts out fire
+1.37254819747 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+1.34353093263 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.948895605487 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+2013's top travel destinations
+1.6312828852 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.368076769223 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.208559634797 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+5 reasons to visit Easter Island
+0.257601639797 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0369631647933 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+2.82311190404e-34 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+Golden girl: Born to run
+4.00389899005 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.77412575173 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.609195861183 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Win $12m prize in camel pageant
+0.869711421526 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.489918198359 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.322342488972 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Is cliff deal really a win for U.S.?
+2.59328330316 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+2.53014293928 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.70473100065 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Retro diet tricks that really work
+9.17086851402 ['their', 'have', 'that', 'cash', 'they', 'bank']
+2.45381056154 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+2.19994361727 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Our top tech wishes for 2013
+0.296332753707 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.24647533924 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+
+Egypt struggles with landmines
+4.22731433007 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.7645361535 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.14124526305 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Dibaba: Losing is not an option
+1.40912101548 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.00739376268 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.349421825229 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+New tone from North Korea's Kim?
+8.17852365477 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+3.87652263727 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.43457804166 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+End 'culture of rape' in 2013
+6.28903421035 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.15978655271 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.284064288323 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Year on, Iraq war's legacy unclear
+8.9562255326 ['year', 'growth', 'with', 'record', 'month', 'industry']
+7.72073498887 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.3069505255 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+No happy new year for Syria refugees
+7.83240782207 ['year', 'growth', 'with', 'record', 'month', 'industry']
+4.92536589297 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.26433181388 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Would-be rescuers plunge into icy lake
+0.949417499157 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.584015800083 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+0.426500619199 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Global economy to 'limp along' in 2013
+2.91653505773 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.7872752531 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.62687073078 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+Club celebrates NY with marijuana
+4.4433914449 ['year', 'growth', 'with', 'record', 'month', 'industry']
+2.99378654933 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.54656716628 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Photos: World rings in new year
+4.53287371311 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.41794461192 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.35470201111 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Amputee tackles dangerous race
+2.75764385756 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+1.51898633867 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.26714565552 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Beijing shines light on 2013
+3.8560076455 ['year', 'growth', 'with', 'record', 'month', 'industry']
+2.64929563768 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+2.68133972921e-22 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Five tech trends for 2013
+4.76835706042 ['year', 'growth', 'with', 'record', 'month', 'industry']
+2.76806843386 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.41936457328 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+Plastic surgery safari in S. Africa
+1.75368511736 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.591176473582 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.338004358841 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Hangovers: Myths and facts
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Ushering in 2013 around the world
+4.28025472699 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.41827995808 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.0365779401 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Watch shark attack smaller shark
+0.651895325713 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.240898190785 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.0352083429471 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Is deporting Piers really the answer?
+1.8617616372 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+1.43843373487 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.776293754871 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Most mysterious buildings
+2.37632028075 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.71296003351 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+0.989657223057 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Tooting horn for George H.W. Bush
+3.60849113224 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.80643822999 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+2.38034553038 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+CNN's 2013 travel wish list
+6.1665528254 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.32852466267 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.36550672972 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+
+Au revoir! France's Depardieu now Russian
+1.86612086468 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.14677032456 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.774442334685 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+What will happen in 2013?
+6.75253592761 ['syria', 'what', '2013', 'next', 'will', 'more']
+3.72234933939 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.24739771992 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+U.S. on cusp of social change
+1.17549502329 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.240202087495 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.0791339428791 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Photos: People we lost in 2012
+2.3153782668 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.45919204627 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.311067354504 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Most amazing sporting moments
+3.93921316297 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.19448711209 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.050855516001 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+Remember the events? Try the quiz
+0.0 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.0 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.0 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+In winter's cold, Syrians struggle
+4.44217344876 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+3.7899707192 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.56912692252 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Malala discharged
+8.01269044199 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+7.82077793623 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+0.41120438223 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Falklands feud
+2.03612266751 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+1.01595615514 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.829209487058 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+India rape debate
+15.7443279417 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+3.80297169677 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.00106076504015 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Cash-only Vatican
+14.8130575631 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.690366983995 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.000122663904772 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+
+Snapchat
+7.88202404547 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.10038318438 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.00171163308 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Hugo Chavez
+10.3690136788 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+3.23428536053 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.558085138339 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Drone strike
+20.736480266 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.635869513508 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+1.65623531306e-11 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Chris Christie
+3.68502029834 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.57481916317 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+1.08198303346 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Current TV
+2.79038545704 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.04653368679 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.145433835371 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Beijing land prices soar
+3.87024199129 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.826265237402 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.63427184873 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+China to make more cars than Europe
+4.74462170559 ['syria', 'what', '2013', 'next', 'will', 'more']
+3.47281721584 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+2.25737622334 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Appeal in Mekong killings rejected
+4.11208261785 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+3.07303228396 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.67019126732 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Kindergartners killed in crash
+3.1175172913 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+3.0609277895 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+2.52217247806 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Is migrant system China's apartheid?
+2.95415708001 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+2.19284967142 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.03767730195 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Footage of school attack released
+4.39405063661 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+1.52949738504e-05 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+6.39470385099e-06 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Opinion: Speak up on climate change
+1.0001498289 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.977285136374 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.648055138621 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Food price spike causing hardship
+1.95954865335 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.3217355203 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+1.03611568299 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Protecting Pitcairn's marine bounty
+3.06263712151 ['their', 'have', 'that', 'cash', 'they', 'bank']
+2.95188583951 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.765468294935 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Rising sea level puts islands at risk
+0.266585281144 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.245157074778 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.124820472301 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Drought-hit trees in race to adapt
+7.35898441293 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.52950796572 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+0.620929352924 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Creating fuel from thin air
+9.3623602935 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.31173958297 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+0.17370090895 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Inventor builds cardboard bike
+2.27664445535 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.05891662414 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.419095174354 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+
+Arab youth demand urgent action
+4.61262048042 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+4.26161590476 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.71256504102 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Greenhouse gases reach new high
+0.765281962983 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.73729252138 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0890704863539 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Study: Apes suffer midlife crisis
+2.00611521981 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.479940028111 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.408724834523 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Watch CNN's 'Secrets in the Ice'
+0.61524894067 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.605275258595 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.363221155569 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Filmmaker snaps vanishing glaciers
+0.257495349581 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.1122405015 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.0471608887003 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Raising a stink about sanitation
+3.57568298212 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.17451869615 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.908370127194 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Spain's austerity characters suffer
+2.40727389728 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.40504030926 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.35051615382 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Feeding Germany's working poor
+1.73127968074 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.863499489096 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.404391759885 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Bloom: austerity may kill growth
+0.565625113303 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.493309364942 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.482509978231 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Eurozone still has mountain to climb
+5.01904627336 ['year', 'growth', 'with', 'record', 'month', 'industry']
+2.15010250945 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.575043419884 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+
+Would a Berlusconi return hurt Italy?
+3.85652913009 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.62465822163 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.631321535038 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Sorrell: Europe slow growth decade
+11.4457220721 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.600354786 ['syria', 'what', '2013', 'next', 'will', 'more']
+3.18503057701 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Is the eurozone crisis almost over?
+5.5816245338 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.54028376309 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.235989674775 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Greece debt relief deal reached
+4.7536869492 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+1.836438925 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.39434540761 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Basnet named CNN Hero of the Year
+5.99608040515 ['their', 'have', 'that', 'cash', 'they', 'bank']
+5.07904694868 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.35598515787 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Pulling children out of Nepal's prisons
+2.98017913847 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.35731206896 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.19359320505 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Portrait of a Hero: Pushpa Basnet
+0.639977099016 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.392135479043 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.0714838935284 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+How to donate to a CNN Hero
+4.17938946763 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.36597300252 ['their', 'have', 'that', 'cash', 'they', 'bank']
+2.89836499819 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Highlights from the tribute show
+3.99681177703 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.773475357958 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.076244971061 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Backstage with stars, honorees
+2.92324505356 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.23848202984 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.981378614727 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Global alarm at Myanmar rebel strikes
+1.76272704449 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.58422691441 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.908766746396 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Pakistan: Seven aid workers killed
+6.20822426641 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.3199410346 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.820583950097 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Aquino signs reproductive health law
+1.44976344507 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+1.34863865884 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.22888797844 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+Urban farming looking up
+4.35103231905 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.659675584938 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.0603306628894 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Shipping looks to clean up its act
+0.694610152613 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.62480149648 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.470120309138 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Fuel-cell cars on the right road
+2.09509963427 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.43979636107 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.732264390364 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Why CNN wants to go here
+6.02336278982 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.40897722521 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.297874220206 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+13 stories for 2013: Syria to climate
+10.2781061982 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.56651940371 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+0.531884309267 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+A year in spectacular photos
+7.76292609203 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.03165039295e-18 ['their', 'have', 'that', 'cash', 'they', 'bank']
+4.22003919616e-23 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+An unclear legacy for Iraq war
+8.58866569027 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+4.79561817774 ['year', 'growth', 'with', 'record', 'month', 'industry']
+2.40806776424 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+End culture of rape in 2013
+6.10418847155 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+5.32309374022 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.80953978449 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Photos: Notable deaths of 2012
+1.14898919661 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.743651023351 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.2481683171 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+'Til death do us part in Syria
+4.40626350365 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.75618569705 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.63637696092 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Muddling through 2013
+1.18757857036 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.633939210769 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.351896674052 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Filipino street kid helps others
+1.14870267149 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.29365450085 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+0.26553382098 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Nigerian activist keeps legacy alive
+2.74009394868 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.73198015854 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.14537702864 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Is this China's apartheid?
+3.09543068826 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+2.18909839365 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.2869713247 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Aborigines get new voice
+0.997831371193 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.214024822854 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.029820355198 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+Details emerge from Benghazi
+4.32008488311 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+3.97586832594 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.38602783509 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Aesha's face tells a new story
+1.95696152646 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.79393835914 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.45042396047 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Russia may ban adoptions to U.S.
+11.7579287863 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.874816059925 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.763559983203 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Why rape in India is a major crisis
+8.11363911328 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+6.84283873359 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+1.49750971356 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+U.S. troops in Turkey to ward off Syria
+4.08716877435 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.74653004713 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.905261294197 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+2012 newshound? Take the quiz
+0.480235447297 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.0932039160465 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.0551165739989 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+Viral 2012: Gangnam Style reigned
+2.07478099207 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.93609544519 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.48079726885 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+French tax hike protest
+0.915208855706 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.215496095744 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.00381173278711 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Syrian children in refugee camps
+9.86649493088 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+6.28270594009 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+4.24369378705 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Google for New Year's resolve?
+7.86159674905 ['year', 'growth', 'with', 'record', 'month', 'industry']
+4.98808138695 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+3.84957730778 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+China tightens traffic rules
+19.5168603967 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+9.1054554652e-09 ['syria', 'what', '2013', 'next', 'will', 'more']
+4.18690460479e-10 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+U.S. journalist abducted in Syria
+3.62061372986 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.64769672809 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.559877269649 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Q&A: What's next for Syria?
+18.9969077768 ['syria', 'what', '2013', 'next', 'will', 'more']
+3.8523061712 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.3814447247 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+China's tightened traffic rules
+19.5168603962 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+1.79049428044e-08 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.19175433896e-10 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Malala's father gets job in UK
+6.37900882634 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+4.77605255986 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+4.63837244917 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Kids crushed to death in stampede
+11.1553783646 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+3.76222477285 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.04974227006 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Photos: World rings in the new year
+4.45925827863 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.375553069021 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.142710220219 ['their', 'have', 'that', 'cash', 'they', 'bank']
+
+Your best moments of 2012
+4.6211114166 ['their', 'have', 'that', 'cash', 'they', 'bank']
+0.456303445573 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.0194383269098 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Christmas where you live
+2.31607409733 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.01447211277 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.455119122736 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+Gunman kills at least three in Philippines
+12.068093996 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+6.32811522717 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.000319884600569 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+Chavez battling 'severe' lung infection
+13.6090325375 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+4.17646014791 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.38623648843 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Pakistan: U.S. drones kill 15
+10.875376845 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+6.66006534107 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.13251412104 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+New Delhi gang-rape suspects charged with murder
+17.9681951478 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+3.79765138408 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.07239392938 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Brewing crisis in Central African Republic
+4.95223453056 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.978700350922 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.5989433856 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Al Jazeera buys Al Gore's Current TV
+2.78926213113 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.05262512903 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.182192934196 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+
+U.N.'s Syria death toll jumps
+5.83389425942 ['syria', 'what', '2013', 'next', 'will', 'more']
+4.21571341117 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.89592165814 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+U.S. journalist abducted
+3.62062278437 ['syria', 'what', '2013', 'next', 'will', 'more']
+2.64770715441 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.559878242856 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+What's next for Syria in 2013?
+20.6026432418 ['syria', 'what', '2013', 'next', 'will', 'more']
+3.95136727109 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.19080824481 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+
+Malala's dad to work in UK consulate
+6.01352411509 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+4.98372071583 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+4.61666670313 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Plane crashes at Moscow airport
+4.75966755767 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.04731036385 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.117043199582 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+UK extradites terror suspect to U.S.
+9.19695373104 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.31113117164 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.883858970433 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Opposition demands Chavez details
+4.65742185496 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.5395617843 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.421557444468 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Armed inmates try prison break
+6.07636536821 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.6869810676 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.81011369434 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+3 arrested in maple syrup heist
+4.44424314462 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.62351317963 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.261533696626 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+U.S.: Syria using Iran-made missiles
+7.22646348372 ['syria', 'what', '2013', 'next', 'will', 'more']
+1.83995146456 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.83306467849 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Christian prayer for peace in Syria
+3.87019288359 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.98996856505 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.879179505469 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+UAE arrests suspected terror cell
+2.18112030753 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+2.14876698629 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.84550237313 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Children killed in stampede
+11.5590930613 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+3.76109362276 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.5040435848 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+4 killed in police station attack
+13.4417416956 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+3.32989471986 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.427465903971 ['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+
+Benghazi report blames security
+3.52764784644 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.58013783799 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.896303743803 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Top 10 science stories of 2012
+4.12217163839 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.296558981477 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.00732500874393 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+NASA crashes probes into moon
+4.38258475019 ['year', 'growth', 'with', 'record', 'month', 'industry']
+3.25244170886 ['their', 'have', 'that', 'cash', 'they', 'bank']
+2.80108999335 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Gas prices see historic dip
+3.10234354029 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.35928384622 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.593802641443 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Warship sails to history's scrap heap
+1.12153447741 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+0.906199700934 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.235065931459 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+
+Public charging stations sprout up
+4.13023488857 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.51083308249 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.670331676445 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Under George W. Bush's shadow
+1.29093155464 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.317497552922 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.155566189805 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Fiscal cliff bound to collapse
+1.48424763824 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+1.16739197865 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.369195462923 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+You can be fat and fit
+1.59409290834 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.1646860141 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.02433547736 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+The real issue: big spending
+1.38263890552 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.806005432492 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.732060654586 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Doctors are under siege
+4.35518483413 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.79072228501 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+1.78060090737 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+
+Cliff deal a hollow victory
+2.55697930907 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+2.33775392814 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.26284236909 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Film overlooks fracking boon
+1.92010590605 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.08894769957 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.929232075088 ['korea', 'japan', 'south', 'america', 'move', 'voice']
+
+GOP, 'rebrand' in Lincoln's image
+0.946492322335 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.536067447061 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+0.341209910645 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Appreciate George H.W. Bush
+1.32373097359 ['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+0.997187158875 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.781242925251 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+245 arrested for child sex abuse
+1.62844207168 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.36213603335 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.737935587592 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+
+New kind of children's hospital
+2.484546921 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.58710194499 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+1.19009701593 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Dreamliner headed to Tokyo
+3.25136057135 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+2.15911466982 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.973746861826 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Veteran finds new way to serve
+4.95659789416 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.21393667017 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+0.639394528167 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Division over cannabis club
+4.20043981412 ['year', 'growth', 'with', 'record', 'month', 'industry']
+1.49519703433 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+1.35364453108 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+
+Meteor shower will light up sky
+3.53105298769 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+2.4211368139 ['their', 'have', 'that', 'cash', 'they', 'bank']
+1.95769890921 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+ESPN star back after burns
+5.68816527451 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+2.19906234021 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.04085912615 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+
+Winter storm shuts down interstate in west Texas
+4.80653343179 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.9403467713 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.06563162329 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Record high gun background checks
+6.30634448481 ['year', 'growth', 'with', 'record', 'month', 'industry']
+0.719795486219 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+0.556956747277 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+
+Sandy Hook students return to class
+23.4774379506 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.475730603445 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+0.081800956192 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Newspaper hires armed guards
+4.68967380711 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.55855984328 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.83977654026 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Politician creates Kwanzaa stir
+0.931513014343 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.134516437416 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.108262310114 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Sandy victims upset with Boehner
+7.42378686434 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+3.55231516034 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+2.65273282586 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+
+Plea deal near in shooting at Family Research Council
+6.02679699445 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+1.29138002129 ['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+1.18667417981 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+Many ask 'Why?' after rape case rattles small Ohio city
+6.69065149405 ['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+6.33991512853 ['china', 'traffic', 'rules', 'many', 'small', 'part']
+2.38217850529 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+
+New Congress votes on Sandy aid Friday
+6.92473726225 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+4.296839979 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+2.94295205435 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+
+Connecticut governor asks for review of gun laws
+6.01809197964 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+0.140210542337 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+0.00732365533824 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Heavy snow keeps parts of I-10 closed in west Texas
+6.20561652334 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.67843100791 ['from', 'children', 'reports', 'iraq', 'were', 'death']
+1.08150850467 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+
+Mississippi man pleads guilty to hate crimes charge
+19.2586325995 ['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+0.00660396865732 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+0.000427713199781 ['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+
+Villain or hero? Flap over California school named for bandit
+2.0773802098 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+1.00295140232 ['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+0.308672646615 ['year', 'growth', 'with', 'record', 'month', 'industry']
+
+Medical helicopter crashes kill 3, hurt 4 and prompt more scrutiny
+1.51069406531 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+1.29739447552 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+1.26781820841 ['syria', 'what', '2013', 'next', 'will', 'more']
+
+Angry families to boycott theater event
+3.26307986991 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+2.41920670121 ['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+0.868935855929 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Being overweight linked to longer life
+4.5068049246 ['said', 'police', 'thursday', 'people', 'after', 'killing']
+3.28906816543 ['their', 'have', 'that', 'cash', 'they', 'bank']
+2.58849558331 ['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+
+Watch Friday's Show!
+4.05768208979 ['school', 'hook', 'blog', 'sandy', 'back', 'their']
+4.05254090427 ['sandy', 'hook', 'they', 'time', 'return', 'this']
+2.00732934317 ['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+
+Can you pass the Newsquiz?
+1.60194678047 ['syria', 'what', '2013', 'next', 'will', 'more']
+0.448871160617 ['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+0.091804445346 ['year', 'growth', 'with', 'record', 'month', 'industry']
+

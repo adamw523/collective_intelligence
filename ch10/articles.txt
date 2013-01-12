@@ -1,0 +1,1275 @@
+In last-minute vote, Senate approves fiscal deal - NBCNews.com
+0.946076890786 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.88005784428 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.587165673345 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+About 60 crushed to death in Ivory Coast stadium stampede - Reuters
+0.937673520464 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.77544941357 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.479569678291 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Hillary Clinton expected to make "full recovery" - CBS News
+0.934108104622 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.734613051262 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.520631749022 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+World looks to 2013 after violence, economic woes - The Seattle Times
+0.703828771859 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.344490284491 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.146084373145 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Pakistan: Seven charity workers shot dead - BBC News
+0.979788651006 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.827247365607 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.661027531839 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+A new year, a new era for marriage in Maryland - Baltimore Sun
+0.615818320242 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.560556508168 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.408419976806 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+North Korea's Kim Jong-un makes a rare New Year's speech - Telegraph.co.uk
+0.972637741966 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.736418628412 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.459111123014 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Colorado Marijuana Clubs Open Following Passage Of Amendment 64 - Huffington Post
+0.770255466894 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.754914960047 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.6120384232 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Shell drilling rig runs aground in heavy Alaska seas - Los Angeles Times
+0.951335531841 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.542420656415 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.485988043061 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Syria's 22-month war shows no signs of stopping in new year - The National
+0.83754561306 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.552109625953 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.525201530057 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Senate Passes Fiscal Crisis Bill
+0.732292456508 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.654896317287 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.502807651482 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+NO MORE MONEY:Judge Says Texas Can Ban Planned Parenthood Funds
+0.733897304039 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.562943425645 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.294480035878 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+FIRING FRENZY: 7 NFL Coaches Sacked After Lackluster Seasons
+0.708337788585 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.564398548591 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.344517477579 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+2013 CELEBRATIONS:Revelers Around the World Ring in the New Year
+0.990445885908 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.851617587416 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.764740986359 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+UNCONSTITUTIONAL: French Court Strikes Down75 Percent Millionaires' Tax
+0.642645980237 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.572808591636 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.358511268556 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+2 dead in shooting near Calif. New Year's gathering
+0.756378741667 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.526604649177 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.425787446046 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Ambush sheds light on dangers firefighters face
+0.858491450752 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.699833382234 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.695393694735 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Unions look for benefits from Obama re-election
+0.917437074373 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.863598895277 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.800977215328 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Doctors say blood clot located in Clinton's head
+0.868187055417 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.532922288706 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.272029949494 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Gun-group head defends mock school shooting
+0.791049072384 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.713733860597 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.468778488268 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Members-only clubs for legal pot use open in Colorado
+0.798750657012 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.668505805126 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.570421561686 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Washed up dock looks just like Japan tsunami dock
+0.699311559588 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.600091483629 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.48107925815 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Rescue teams search for missing Florida boaters
+0.988966683832 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.663607224857 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.376853800616 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Shell drill ship runs aground on Alaskan island
+0.919499273305 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.890537334168 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.791803433332 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Peter Lanza claims remains of Connecticut gunman
+0.985367032935 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.903053833331 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.808014933277 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Sperm donor to battle order to pay child support
+0.521247055258 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.513459385223 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.270449540279 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Iran warns foreign planes near military drills in key strait
+0.588102039401 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.426612359356 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.206472931539 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+North Carolina man accused of stealing meteorites
+0.882860512847 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.801595613522 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.783713109725 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Fugitive caught, charged with murder of Tenn. man
+0.923206689103 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.594288053281 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.364275506629 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Police: Clothes link Las Vegas casino worker to girl
+0.598959664808 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.513207334361 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.43602773396 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Maine man, 74, accused of killing tenants due in court
+0.929858668909 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.820111355858 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.445148304673 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Ford Builds a 100 mpg Car
+0.960575656763 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.754519055392 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.594790930654 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Hef Gets Hitched
+0.675264765243 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.533234929924 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.508565162618 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Game Over for PlayStation
+0.8064056444 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.250340068478 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.220702924061 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Kim, Kanye Expecting a Baby
+0.920562261163 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.447036751474 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.399622920036 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Should You Quit Facebook?
+0.953163378517 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.684936476773 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.367699308783 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+A-List Actors' Z-List Roles
+0.99730045053 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.895137400841 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.893560356406 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Is It Love ... Or Lust?
+0.567048811757 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.503784952986 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.499414383033 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Dream On: 2013's Vaporware
+0.966290640462 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.59446359705 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.570728818603 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Shocking Celeb Facts
+0.843705219262 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.608838589577 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.330330661019 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Foods to Put You in a Bad Mood
+0.958234544931 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.868475440697 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.437433900961 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Sheen Screams Gay Slur at Club
+0.75062700718 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.723572121742 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.475661422876 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Eat Like a Billionaire
+0.785399702633 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.671663754819 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.406886756715 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Miami With the Kids
+0.924589846445 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.537265964395 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.167896543722 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Gutfeld: I Hate Resolutions
+0.687163236461 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.659732657572 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.3614275606 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+13 key stories to watch for in 2013
+0.961291049122 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.929360590829 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.484598680562 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+University 'banishes' words for 2013
+0.827514748508 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.627045299135 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.618142930682 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Top U.S. political hits and misses
+0.831862566692 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.335985205619 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.302511795797 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Nature's deadly wrath in 2012
+0.768861657423 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.695148785712 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.528239671323 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Strangest moments
+0.717084289626 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.442206940458 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.436266038533 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+2012: 10 best movies
+0.916824334255 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.676920234135 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.606824062043 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Entertainment 2012: The year of 'meh'
+0.882249631407 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.859147679098 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.281676951293 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Dozens of children crushed to death at fireworks party
+0.705922306713 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.510033469186 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.293770656701 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+North Korea's Kim: Revamp economy
+0.805916122936 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.51088922785 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.507272024869 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Clinton suffering blood clot in her head
+0.814826905345 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.594482377184 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.49932931108 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Syrian civil war toll rises to over 46,000
+0.822016057426 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.598241340521 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.294611399429 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Two killed in New Year's shooting
+0.939533661899 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.931321805018 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.836772680439 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+'Hero' in Iran hostage crisis dies
+0.815063311092 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.653785790012 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.413885775962 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Caracas quiet as Chavez fights cancer
+0.868612214257 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.828791002997 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.46881896881 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Zuma appeals for prayers for Mandela
+0.793622388072 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.5617515273 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.506387408167 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+NYC couple found with bomb material
+0.729225922664 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.644262944105 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.236749430859 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Crews fight to keep drill afloat in Alaska
+0.673458555278 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.596944146011 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.465194978805 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Father claims Newtown shooter's body
+0.959972298392 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.938993408012 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.889745323444 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+16 killed in Iraq sectarian attacks
+0.931511160161 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.479487642761 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.361096706878 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+'Hobbit' outdraws 'Django' at box office
+0.911382086678 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.468514788987 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.346665780304 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Injured Sharapova out of season opener
+0.807874122342 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.673857533411 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.442897556282 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Djokovic hurt as crowd barrier collapses
+0.893521206006 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.861461441913 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.382036813875 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Wozniacki wilts in Brisbane opener
+0.804868052481 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.196209285578 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.113766563422 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Golf star breaks leg in skiing accident
+0.945191060873 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.916162031723 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.838229939286 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Dad delivers baby on side of road
+0.870934232495 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.775533493105 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.747947673688 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+U.S. Senate backs deal on fiscal cliff
+0.949157529615 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.914237200115 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.895534428897 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Fiscal cliff deal passes Senate
+0.710628406476 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.445261013123 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.434263030038 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Reid: We've reached agreement
+0.807019709711 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.583474877851 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.48101224287 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Dog year
+0.746549317444 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.571873833274 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.521763920109 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Blaming immigrants for Greek woes
+0.908091841102 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.866085275064 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.689501350028 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Would a Berlusconi return hurt Italy?
+0.939992598457 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.870343522523 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.601300388157 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Sorrell: Europe slow growth decade
+0.957422224341 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.585254699733 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.343835198146 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Is the eurozone crisis almost over?
+0.85507344751 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.675691664899 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.496819609026 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Greece debt relief deal reached
+0.880062783816 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.794342039821 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.616885090126 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Greek anger beyond despair
+0.937706916262 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.282852289066 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.265983656475 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Tsipras: Austerity killing Greece
+0.80672979561 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.301922432796 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.28200978605 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Catalonia's fight echoes the past
+0.669812958319 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.463077886702 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.193834759748 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Will Greek crisis strengthen banks?
+0.965411640584 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.79861067272 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.490608143405 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Iraq war's legacy remains unclear
+0.903907431322 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.857981074052 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.815836222831 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Surgery safari: Get 'J-Lo look' in S. Africa
+0.90565676653 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.532859756989 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.414128003185 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Why deporting Piers is not the answer
+0.958580696102 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.779572299381 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.530060319786 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Psy surprises Anderson Cooper
+0.986402990039 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.859727656856 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.828045095642 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Seniors make marathon resolution
+0.893819764378 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.83658746111 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.830142544757 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Watch shark attack smaller shark
+0.804148771615 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.733932781427 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.396833075715 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+The world's most mysterious buildings
+0.84517536 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.530725297254 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.117158454868 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+CNN's 2013 travel wish list
+0.820656614608 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.517972494608 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.391642391021 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Tooting the horn for George H.W. Bush
+0.881273880274 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.814951061718 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.590822893974 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+'We are all guilty'
+0.985069201286 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.942166405312 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.66881613936 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Triple amputee takes on most dangerous race
+0.995765372106 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.99525271627 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.691489185807 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Young victims of Syria's civil war
+0.832646623212 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.694891384305 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.673291196606 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Gun buyback yields rocket launchers
+0.940545100708 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.769414062635 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.443255978503 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Moscow plane crash caught on video
+0.987931123622 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.813803006762 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.723769777094 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Singapore cemetery as battleground
+0.935145042973 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.73067290727 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.728230354451 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Battery charged by walking
+0.933883848376 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.924845555665 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.882334068899 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Snowboarding toddler's skills
+0.881466603328 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.507955102253 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.377365441697 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Zookeepers fight gators for eggs
+0.841178351738 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.743088831775 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.735072671748 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Neighbors ring in 2013 25 hours apart
+0.776635814428 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.353541020994 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.239952084751 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Boy's big beast tracker site
+0.995800162882 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.6851142366 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.567963621855 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Obama: My worst day as president
+0.771728049161 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.665522969873 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.642995746147 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Africa: The good news from 2012
+0.833576784213 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.823455718507 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.814983097899 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+10 global new year's eats
+0.668724099205 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.633042892413 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.447698777488 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Dubai ports feed appetite for dates
+0.52452487141 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.511973250545 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.425616975687 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Fight for health law in Philippines
+0.848350404764 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.65062567467 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.632323494448 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+What's next for China in 2013
+0.689636191896 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.598688406214 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.239976038555 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+India gang rape: We are all guilty
+0.680373190174 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.553556317821 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.299743181495 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Police indifference blamed for rapes
+0.911574689227 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.893232639658 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.427648009473 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+4 financial things you can do in 2013
+0.916665419393 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.60153459515 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.54228317962 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Googling the Dead Sea Scrolls
+0.997734751351 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.978423504361 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.680254123885 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Fight over water at a holy site
+0.890004305295 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.729399773907 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.526278640288 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+See battery charged by walking
+0.962580525712 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.881704542108 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.791794481549 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+After slump, Dubai says: We're back!
+0.981716556711 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.946391605796 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.818039003138 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Jet overshoots Moscow runway
+0.908857810826 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.800805910588 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.641280119449 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Singapore sprouts green roofs
+0.950097634034 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.631375037839 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.40524062369 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+What will 2013 bring?
+0.932238282317 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.655116428064 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.645337257322 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Secret WWII code found on dead bird
+0.824158204514 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.703362260656 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.538823398082 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+How forgotten rally defied KGB
+0.834588071259 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.820124079712 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.711358702059 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Young marriage destroyed by war
+0.976415477632 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.875370414565 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.868568135144 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Banker to cab driver
+0.943638521397 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.851463473381 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.787889167285 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+What will happen in 2013?
+0.998521412209 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.991735652591 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.795987295608 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+U.S. on cusp of social change
+0.740193706858 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.666038605328 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.651329637503 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Photos: People we lost in 2012
+0.883970471207 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.85235891503 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.562989353075 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Most amazing sporting moments
+0.899559418735 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.354776563044 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.233802803616 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Remember the events? Try the quiz
+0.955106796833 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.634146164054 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.603298136243 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Photos: World rings in the new year
+0.433395512619 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.338844223109 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.252304714096 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Hangovers: Myths and facts
+0.978331474886 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.958332241388 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.889507870586 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Ushering in 2013 around the world
+0.907571345321 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.839761936006 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.713933546103 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Fiscal cliff
+0.883819340173 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.334079367671 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.253661979457 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Hillary Clinton
+0.827741009377 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.730392935844 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.552949193891 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Nelson Mandela
+0.772821869632 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.756381471429 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.715388998982 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+What's ahead in 2013?
+0.608931681791 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.598595899767 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.405305188783 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+'We're all guilty' in India
+0.831500344805 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.588484228729 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.277112502954 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+2012 quiz
+0.925578744174 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.701023440793 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.614053849083 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Your best moments of 2012
+0.979759226786 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.959660943571 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.92692518036 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Christmas where you live
+0.84785679546 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.737798253144 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.722989151688 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+World's most Christmassy places
+0.997943641758 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.45007230834 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.390612455181 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Opinion: Speak up on climate change
+0.858536381096 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.273413815149 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.0687051168139 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Food price spike causing hardship
+0.920285112342 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.75597453702 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.736048185546 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Protecting Pitcairn's marine bounty
+0.854638838002 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.775762606631 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.523778181906 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Rising sea level puts islands at risk
+0.914781141583 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.624806961026 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.500381954204 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Drought-hit trees in race to adapt
+0.736608394665 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.721727776696 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.67515671444 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Creating fuel from thin air
+0.997586363855 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.994081961528 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.595620509728 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Inventor builds cardboard bike
+0.660573475341 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.629321015241 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.563177777027 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Arab youth demand urgent action
+0.928019748591 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.726833073384 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.470166768374 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Greenhouse gases reach new high
+0.985676393352 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.797648804623 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.264718448277 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Study: Apes suffer midlife crisis
+0.731510097447 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.646692334147 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.541890079358 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Watch CNN's 'Secrets in the Ice'
+0.83564846286 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.469644194423 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.420015020886 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Filmmaker snaps vanishing glaciers
+0.855754965633 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.663602547604 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.448468566119 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Raising a stink about sanitation
+0.76273869416 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.717211670232 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.403591779852 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Best, worst nations for corruption
+0.779837114893 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.664668028365 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.533861621737 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Best place to buy property in Asia
+0.803238454197 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.656266933361 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.284110320482 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Anger over Chinese passport
+0.868009832106 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.830814380883 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.388534468106 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+China runs 'sexy' N.Korea spoof
+0.923977731362 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.616923105045 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.587988045764 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Chinese flock to elite U.S. schools
+0.88995295845 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.86577651866 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.839494093429 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+China lands first jet on aircraft carrier
+0.870425605097 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.662575351351 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.600013493883 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Fixing China's 'drinking problem'
+0.737810917721 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.384434707292 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.344776037841 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Chinese farmer does 'Grandpa style'
+0.598725656537 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.379671808342 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.348246192549 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Street children found dead in bin
+0.840884485652 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.380594406948 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.217137221304 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+China unveils new top leaders
+0.721508163274 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.645243842975 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.477740886605 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Shadow of Jiang looms over China
+0.96352874121 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.697023399623 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.385851120116 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Basnet named CNN Hero of the Year
+0.830844749957 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.499599824421 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.182152040821 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Pulling children out of Nepal's prisons
+0.986088833599 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.840157375418 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.534021475169 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Portrait of a Hero: Pushpa Basnet
+0.877715544786 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.84437683092 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.828986010626 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+How to donate to a CNN Hero
+0.878681426135 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.604439941977 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.429645246699 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Highlights from the tribute show
+0.767113591779 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.699132166467 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.481008498786 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Backstage with stars, honorees
+0.985985575331 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.877332237138 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.556247353763 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Japan parliament picks Abe as PM
+0.830879907809 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.366739631492 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.317725304922 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Historic cricket win for Pakistan
+0.598921950242 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.568990409565 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.531698437324 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Urban farming looking up
+0.929099067024 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.832440501277 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.463932604239 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Shipping looks to clean up its act
+0.875777438938 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.783313214396 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.612220304316 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Fuel-cell cars on the right road
+0.999964741267 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.840758400314 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.572263589069 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Muddling through 2013
+0.810224941031 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.645380146626 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.598511169864 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Filipino street kid helps others
+0.642317698258 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.531272075568 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.402628930367 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Nigerian activist keeps legacy alive
+0.641002040726 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.407306670501 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.328052748398 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Is this China's apartheid?
+0.827676950974 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.592931666669 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.245038765055 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Aborigines get new voice
+0.915999757632 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.682589704007 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.285627278349 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Details emerge from Benghazi
+0.707339282728 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.70103935873 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.354369875662 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Aesha's face tells a new story
+0.894062317785 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.441674910167 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.42410904048 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Russia may ban adoptions to U.S.
+0.853148653615 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.740826991032 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.425796299484 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Why rape in India is a major crisis
+0.938511513954 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.449790554968 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.416871343215 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+13 for 2013: What's next for the world?
+0.715894962474 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.526815317858 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.508276563649 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+2012 newshound? Take the quiz
+0.706818999574 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.321023848467 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.286447851536 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Viral 2012: Gangnam Style reigned
+0.995716189382 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.977237441159 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.631122267429 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+A year in spectacular photos
+0.618656351012 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.589560768445 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.563834625565 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+5 ways Africa shone in 2012
+0.800718485084 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.708516093109 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.535860368512 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Photos: Notable deaths of 2012
+0.968272700498 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.870564832179 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.8639595189 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Neighbors ring in 2013 24 hours apart
+0.961596402074 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.772373640128 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.583484917014 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Iraq, a year after U.S. troops left
+0.58227333248 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.336280034241 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.25648587281 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+2013: From Syria to 'post-Gangnam' era
+0.999034326017 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.747472153533 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.602464282787 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Doctor: Woman gang-raped in India dies
+0.912306216456 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.817345924912 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.387531746471 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Inside a marriage destroyed by war
+0.352648031909 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.349001992532 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.347855685964 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Report blames poor security, inadequate response in Benghazi attack
+0.841814033381 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.775015775331 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.735043730517 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Venezuela's Chavez battles 'new complications' from surgery
+0.762398071279 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.396941247381 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.219593505473 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Stench of burnt bodies smothers Syrian city, residents say
+0.887034849803 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.879528699572 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.568426476235 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+'Til death do us part: Marriage destroyed by war
+0.994235835234 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.781401304066 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.538303976185 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+No African leader deemed worthy of leadership award
+0.793201856222 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.752111415379 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.677967980298 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+India files murder charges in gang rape
+0.693919594933 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.522322067122 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.440335631293 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Philippines gets reproductive health law
+0.841513853029 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.759091456087 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.681126587099 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Plane crashes at Moscow airport
+0.950665745168 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.540750422966 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.525112306154 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+U.N. envoy: Plan could end war
+0.673068212199 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.585989823717 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.56674927981 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Syrian military police chief defects
+0.959254388224 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.908224541937 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.751824887294 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Syria 101: How it all started
+0.613125855079 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.521973793462 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.256360423997 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Putin signs anti-U.S. adoption bill
+0.680125717816 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.661008915945 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.621381866884 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+1 killed in Ukraine blast
+0.814631266436 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.762751379604 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.65643894428 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Italian Prime Minister Monti resigns
+0.946017354466 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.412884207874 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.400819028144 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Armed inmates try prison break
+0.755516689691 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.75104770164 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.411512211805 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+3 arrested in maple syrup heist
+0.793670176451 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.771498517108 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.770451318813 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Chavez battling respiratory infection
+0.692029334483 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.568452077262 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.554985865812 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+U.S.: Syria using Iran-made missiles
+0.910172593387 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.84702628314 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.547414875123 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Christian prayer for peace in Syria
+0.835440617271 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.753299595368 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.653570077861 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+UAE arrests suspected terror cell
+0.403093818668 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.274051070878 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.0935646544071 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Mubarak returns to military hospital
+0.998682669031 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.767794442985 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.706500525151 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Massive blaze spreads in Nigeria
+0.978887403617 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.818633135898 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.736979216561 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Kenyan DJs fast for peace
+0.698222576549 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.487335538342 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.456831426929 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Top 10 science stories of 2012
+0.971352073997 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.670307072621 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.668955634867 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+NASA crashes probes into moon
+0.921260199474 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.589674779088 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.56402706013 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Gas prices see historic dip
+0.813933182083 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.791303559527 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.51046720884 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Warship sails to history's scrap heap
+0.956428590766 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.810538663007 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.801501285577 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Public charging stations sprout up
+0.860143711103 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.47224134244 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.412658513896 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Best of 2012 in pictures
+0.785998575775 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.676762744649 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.594688033277 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Nuns help revolutionize health care
+0.366321476313 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.246124397511 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.159555369381 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Appreciate George H.W. Bush
+0.985554453494 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.778559021726 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.37255597035 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Newtown survivors, choose hope
+0.898102103679 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.885788781083 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.729752932456 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+The novel America needs in 2013
+0.982494845716 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.729260667288 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.681550814406 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+'Zero Dark Thirty' is only a movie
+0.765746654229 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.749474142602 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.584615207924 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Don't be offended, DREAMers
+0.656325260646 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.391183390689 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.0882994992156 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+
+Acquire Newtown gunmaker
+0.782750436137 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.757797240516 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.436523318108 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+2013: The year for social change
+0.638674506349 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.613759528328 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.438366639661 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Must nation grieve with God?
+0.669585683166 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.30815787842 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.123890549917 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Skip concensus on climate change
+0.85676552828 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.701808978796 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.690575686016 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Forgotten victims of violence
+0.953092804722 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.91146910045 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.820623332287 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Senate passes fiscal cliff deal
+0.947895395102 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.6293152757 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.37414106233 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Key West's 'drag queen drop'
+0.879197824204 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.789945335027 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.7487344384 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+'Nothing less than miracle'
+0.827919185587 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.671103486419 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.491377334269 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+From Wall Street to the street
+0.712645859595 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.436420143559 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.351449236048 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+College 'banishes' words for 2013
+0.272492548755 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.267651818396 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.123497684235 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Governor pardons 'Wilmington 10'
+0.632256073493 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.484856026071 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.319868752841 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Woman charged in NY subway death
+0.705993818308 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.393946250838 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.335450080397 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Newtown shooter's body claimed
+0.709985780259 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.605834244441 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.360884961608 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+2 missing boys return home
+0.887140513255 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.66782986118 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.439985214593 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Clinton's clot between brain, skull
+0.869323566187 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.681759629387 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.275367031156 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Shooting at New Year's Eve fireworks show kills 2
+0.967523878226 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.68752858516 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.6236354577 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+North Carolina governor pardons 'Wilmington 10'
+0.998060572864 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.827291818515 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.717271427927 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+New York City couple accused of possession of explosive material
+0.887400109463 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.769278820207 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.596660437426 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Crews battle weather trying to tow drilling vessel to Alaska harbor
+0.902523849007 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.805951890984 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.697570540202 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Planned Parenthood loses bid to delay Texas funding law
+0.936293688752 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.607473626105 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.361107376941 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Mom 'eternally grateful' as 2 missing boys return home to Georgia
+0.828802148249 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.29266514304 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.277047466861 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+
+Connecticut shooter Adam Lanza's body claimed
+0.881296971608 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.74411980133 ['that', 'said', 'more', 'deal', 'years', 'coast']
+0.424201191699 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+
+Group: Electric car crashes pose new risk for responders
+0.95512561341 ['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+0.90852971437 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.896713705382 ['that', 'said', 'more', 'deal', 'years', 'coast']
+
+Watch Thursday's Show
+0.907579795402 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.852625166377 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+0.695022929475 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+
+Can you pass the Newsquiz?
+0.868746698049 ['from', 'been', 'reports', 'crisis', 'president', 'they']
+0.694829358595 ['year', '2013', 'after', 'death', 'woman', 'nbsp']
+0.489367692664 ['world', '2012', 'most', 'syrian', 'china', 'monday']
+

@@ -1,0 +1,100 @@
+['from', 'children', 'reports', 'iraq', 'were', 'death']
+(11.757928786276324, u'Russia may ban adoptions to U.S.')
+(11.55909306127486, u'Children killed in stampede')
+(11.155378364579171, u'Kids crushed to death in stampede')
+
+['rape', 'gang', 'delhi', 'woman', 'with', 'charged']
+(17.968195147841474, u'New Delhi gang-rape suspects charged with murder')
+(16.696752032955402, u'Rape suspects charged with murder')
+(16.07391011841257, u"Can India's anti-rape moment change a culture? - CBC.ca")
+
+['india', 'news', 'delhi', 'nbsp', 'over', 'change']
+(38.383441376353105, u"Can India's anti-rape moment change a culture? - CBC.ca")
+(3.0011310908299049, u'Myanmar: Evolution, not revolution')
+(2.3149224500704495, u'Japan, South Korea Move to Ease Tensions - Voice of America')
+
+['boehner', 'sandy', 'after', 'news', 'nbsp', 'house']
+(44.066162714399546, u"Moran: The lone wolf congressman who won't sign on to Sandy aid - The Star-Ledger - NJ.com (blog)")
+(7.6849953470494556, u"'NOT AUTHORIZED':  Judge: EPA Overstepped Authority in Virginia")
+(7.4237868643412499, u'Sandy victims upset with Boehner')
+
+['school', 'hook', 'blog', 'sandy', 'back', 'their']
+(47.912250975573798, u'Back to School: Do We Still Remember Sandy Hook? - New Yorker (blog)')
+(4.3940506366126835, u'Footage of school attack released')
+(4.0576820897944517, u"Watch Friday's Show!")
+
+['with', 'guilty', 'hate', 'attacks', 'against', 'thursday']
+(19.258632599498178, u'Mississippi man pleads guilty to hate crimes charge')
+(19.258606246216395, u'Guilty plea to U.S. hate crimes charge')
+(6.2827059400949894, u'Syrian children in refugee camps')
+
+['said', 'police', 'thursday', 'people', 'after', 'killing']
+(15.288099488759217, u'Gunmen kill 4 at Nigeria police station')
+(13.441741695604113, u'4 killed in police station attack')
+(10.058124434814756, u'Britain extradites terror suspect to U.S.')
+
+['syria', 'what', '2013', 'next', 'will', 'more']
+(20.602643241764817, u"What's next for Syria in 2013?")
+(18.996907776759283, u"Q&A: What's next for Syria?")
+(11.43069526012153, u'What comes next for Syria in 2013?')
+
+['google', 'regulators', 'with', 'behind', 'news', 'nbsp']
+(49.67288975651087, u'Google Pushed Hard Behind the Scenes to Convince Regulators - New York Times')
+(4.9880813869476963, u"Google for New Year's resolve?")
+(2.8983649981904542, u'How to donate to a CNN Hero')
+
+['hospital', 'malala', 'pakistani', 'leaves', 'yousufzai', 'news']
+(50.348971710341829, u'Pakistani schoolgirl Malala Yousufzai leaves hospital - USA TODAY')
+(10.969469814497065, u'Shot Pakistani Malala leaves UK hospital')
+(7.820777936234264, u'Malala discharged')
+
+['gaza', 'news', 'fatah', 'hamas', 'rally', 'building']
+(45.201896488972309, u'Gaza: Hamas allows rival Fatah to hold celebration rally - BBC News')
+(2.0841377959094345, u"Venezuela's President Fighting Severe Lung Infection - Voice of America")
+(1.4284987119079395, u'Gunman kills seven in Philippines - The News International')
+
+['lung', 'infection', 'chavez', 'hugo', 'severe', 'venezuela']
+(45.196349380759372, u"Venezuela's President Fighting Severe Lung Infection - Voice of America")
+(13.609032537477686, u"Chavez battling 'severe' lung infection")
+(12.479334002040275, u'Hugo Chavez battling respiratory failure')
+
+['killed', 'strike', 'drone', 'officials', 'waziristan', 'taliban']
+(22.756010260143679, u'Senior Taliban boss killed in strike')
+(20.736480266046588, u'Drone strike')
+(15.833460122309264, u'Officials: Drone killed Taliban commander')
+
+['transocean', 'will', 'help', 'post', 'nbsp', 'deal']
+(38.188455276737024, u"Transocean's $1.4B oil spill deal will help Gulf - Seattle Post Intelligencer")
+(4.7536869491958962, u'Greece debt relief deal reached')
+(3.5310529876932408, u'Meteor shower will light up sky')
+
+['year', 'growth', 'with', 'record', 'month', 'industry']
+(18.197721032333696, u'Macau casinos end year on a high')
+(11.445722072115798, u'Sorrell: Europe slow growth decade')
+(8.9562255325993529, u"Year on, Iraq war's legacy unclear")
+
+['gunman', 'kills', 'philippines', 'news', 'international', 'seven']
+(42.091112226759741, u'Gunman kills seven in Philippines - The News International')
+(12.068093995955596, u'Gunman kills at least three in Philippines')
+(11.927341474195867, u'Gunman kills six in Philippine town')
+
+['sandy', 'hook', 'they', 'time', 'return', 'this']
+(23.477437950582299, u'Sandy Hook students return to class')
+(10.899529885065377, u'Back to School: Do We Still Remember Sandy Hook? - New Yorker (blog)')
+(6.0180919796439865, u'Connecticut governor asks for review of gun laws')
+
+['china', 'traffic', 'rules', 'many', 'small', 'part']
+(21.088253054939646, u"China's new traffic rules stir debate")
+(19.516860396672527, u'China tightens traffic rules')
+(19.516860396176945, u"China's tightened traffic rules")
+
+['their', 'have', 'that', 'cash', 'they', 'bank']
+(14.813057563134441, u'Cash-only Vatican')
+(14.357354660330671, u'Crisis over Vatican cash machines')
+(9.1708685140219437, u'Retro diet tricks that really work')
+
+['korea', 'japan', 'south', 'america', 'move', 'voice']
+(49.278615513198673, u'Japan, South Korea Move to Ease Tensions - Voice of America')
+(8.1785236547684423, u"New tone from North Korea's Kim?")
+(4.472763875898206, u"'Abe trade': Will Japan's bull-run last?")
+

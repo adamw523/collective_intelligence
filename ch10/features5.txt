@@ -1,0 +1,25 @@
+['world', '2012', 'most', 'syrian', 'china', 'monday']
+(0.99525271626984835, u'Triple amputee takes on most dangerous race')
+(0.99044588590809324, u'2013 CELEBRATIONS:Revelers Around the World Ring in the New Year')
+(0.98896668383227193, u'Rescue teams search for missing Florida boaters')
+
+['with', 'news', 'that', 'after', 'nbsp', 'clinton']
+(0.99852141220922708, u'What will happen in 2013?')
+(0.99806057286385508, u"North Carolina governor pardons 'Wilmington 10'")
+(0.99576537210637517, u'Triple amputee takes on most dangerous race')
+
+['from', 'been', 'reports', 'crisis', 'president', 'they']
+(0.99903432601705988, u"2013: From Syria to 'post-Gangnam' era")
+(0.99773475135067979, u'Googling the Dead Sea Scrolls')
+(0.99730045053022165, u"A-List Actors' Z-List Roles")
+
+['year', '2013', 'after', 'death', 'woman', 'nbsp']
+(0.9986826690309889, u'Mubarak returns to military hospital')
+(0.99794364175798711, u"World's most Christmassy places")
+(0.99758636385518173, u'Creating fuel from thin air')
+
+['that', 'said', 'more', 'deal', 'years', 'coast']
+(0.99996474126660362, u'Fuel-cell cars on the right road')
+(0.99580016288190143, u"Boy's big beast tracker site")
+(0.99571618938156048, u'Viral 2012: Gangnam Style reigned')
+
