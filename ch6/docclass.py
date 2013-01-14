@@ -138,6 +138,19 @@ class classifier:
         bp = ((weight * ap) + (totals * basicprob)) / (weight + totals)
         return bp
 
+    def printtable(self):
+        # Print a table of the categories, features and their probabilities
+        print '             ',
+        for category in self.categories():
+            print '{0:10}'.format(category),
+        print
+
+        for feature in self.features():
+            print '{0:14}'.format(feature),
+            for category in self.categories():
+                print '{0:.1f}       '.format(self.fprob(feature, category)),
+            print
+
 class naivebayes(classifier):
     def __init__(self, getfeatures):
         classifier.__init__(self, getfeatures)
